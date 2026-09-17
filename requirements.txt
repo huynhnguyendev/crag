@@ -2,6 +2,7 @@ python-dotenv
 langchain
 langchain-community
 langchain-openai
+langchain_google_genai
 langchain-groq
 langchain-text-splitters
 langgraph

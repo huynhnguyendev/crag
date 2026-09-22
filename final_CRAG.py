@@ -10,11 +10,11 @@
 # ┌───────────────┬──────────────────────────────┐
 # │ CORRECT       │ INCORRECT / AMBIGUOUS        │
 # │      ↓        │             ↓                │
-# │    Refine     │       Rewrite Query           │
+# │    Refine     │       Rewrite Query          │
 # │      ↓        │             ↓                │
-# │              │        Tavily Web Search       │
-# │              │             ↓                │
-# │              │           Refine              │
+# │               │        Tavily Web Search     │
+# │               │             ↓                │
+# │               │           Refine             │
 # └───────────────┴──────────────┬───────────────┘
 #                                ↓
 #                             Generate
